@@ -8,7 +8,7 @@ repository:
   description: 🔐 CDF Special Interest Group on Security -- secure access, policy control, privacy, auditing, explainability and more!
 
   # A URL with more information about the repository
-  homepage: https://cncf.io/projects
+  homepage: https://cd.foundation/projects
   
   # Collaborators: give specific users access to this repository.
   # see /governance/roles.md for details on write access policy
