@@ -28,6 +28,7 @@ SIG-Security facilitates collaboration to discover and produce resources which e
 Anyone is welcome to join our open discussions of SIG-Security projects and share news related to the group's mission and charter. Much of the work of the group happens outside of SIG-Security meetings and we encourage project teams to share progress updates or post questions in these channels:
 
 * [Email list](https://lists.cd.foundation/g/sig-security)
+- Mail Address: sig-security@lists.cd.foundation
 * [CDF Slack](https://cdeliveryfdn.slack.com/) #sig-security channel
 
 [Join our Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM)
@@ -36,10 +37,8 @@ Anyone is welcome to join our open discussions of SIG-Security projects and shar
 
 CDF Special Interest Group - *Security*
 
-- Mail list: https://lists.cd.foundation/g/sig-security   sig-security@lists.cd.foundation
 - Agenda: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#heading=h.zehgwhht8gpl
-
-Meetings are conducted on every other Tuesday at 08:00am Pacific prior to the TOC meeting
+- Meetings are conducted on every other Tuesday at 08:00am Pacific prior to the TOC meeting
 
 
 
