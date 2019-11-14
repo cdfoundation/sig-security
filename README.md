@@ -16,9 +16,9 @@ The Security SIG provides a neutral home for discussion around designs, specific
 * Vulnerability Communication - provide mechanisms for breaches in the integrity of software to be communicated and remediated.
 * Vulnerability Recovery - provide mechanisms for consumers to recover from compromised or untrusted software.
 
-# Governance
+[//]: # "# Governance"
 
-[SIG-Security charter](governance/charter.md) outlines the scope  of our group activities, as part of our [governance process](governance) which details how we work.
+[//]: # "[SIG-Security charter](governance/charter.md) outlines the scope  of our group activities, as part of our [governance process](governance) which details how we work."
 
 ## Communications
 
@@ -50,9 +50,9 @@ CDF Special Interest Group - *Security*
 * Fred Blaise (CloudBees) - Co-chair
 * Dan Lorenc (Google) - TOC Sponsor
 
-### SIG Members
+[//]: # "### SIG Members"
 
-Membership governance can be viewed [here](https://github.com/cncf/sig-security/blob/master/governance/roles.md#role-of-members).
+[//]: # "Membership governance can be viewed [here](https://github.com/cncf/sig-security/blob/master/governance/roles.md#role-of-members)."
 
 ## Past events and meetings
 
