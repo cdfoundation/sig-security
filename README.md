@@ -2,22 +2,19 @@
 
 ## Quick links
 
-- [Meeting Information](#meeting-time)
+- [Meeting Information](#meeting-times)
 - [Slack Information](#communications)
-- [New Members](#new-members)
-- [Members](#members)
 
 ## Objective
 
-SIG-Security facilitates collaboration to discover and produce resources which enable ...
+The Security SIG provides a neutral home for discussion around designs, specifications, shared code and processes to enable security across the software supply chain. Topics of interest include the following:
 
-## Background
-
-
-
-## Vision
-
-
+Observability- enable actions performed while writing code, compiling, testing, and distributing software to be manifest and verifiable.
+Policy - enable consumers of software to specify and implement policy over consumed software.
+Inventory - enable administrators to inventory and audit software used within their organizations.
+Runtime Security - enable detection and prevention of software tampering at runtime.
+Vulnerability Communication - provide mechanisms for breaches in the integrity of software to be communicated and remediated.
+Vulnerability Recovery - provide mechanisms for consumers to recover from compromised or untrusted software.
 
 # Governance
 
@@ -37,44 +34,25 @@ Anyone is welcome to join our open discussions of SIG-Security projects and shar
 
 CDF Special Interest Group - *Security*
 
-- Agenda: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#heading=h.zehgwhht8gpl
+- [Agenda and Minutes](https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#heading=h.zehgwhht8gpl)
 - Meetings are conducted on every other Tuesday at 08:00am Pacific prior to the TOC meeting
-
-
-
-## In person meetings
-
-Please let us know if you are going and if you are interested in attending (or helping to organize!) an in-person meetup. Create a [github issue](https://github.com/cdfoundation/sig-security/issues/new) for an event and add to list below:
-
-* {list}
-
-[Past events](past-events.md)
-
-## New members
-
-If you are new to the group, check out our [New Members Page](NEWMEMBERS.md) and submit a PR to add yourself to the [members list](#members-list).
+- Download [this invitation](https://zoom.us/meeting/tZcvcuugqD8tyCbzKhDecxk7i_DTjwwoxw/ics?icsToken=16e7a1f824ad13ceb2a417f99e43dbc02fcc6db5825820f64677b5dec84af379) to add the meeting to your calendar
 
 ## Related groups
 
-* ...
+* Software Bill of Materials Working Group (https://www.it-cisq.org/software-bill-of-materials/index.htm)
 
-
-## Members
 
 ### SIG Chairs
 
-* ...
+* Kay Williams (Microsoft) - Chair
+* Brian Russell (Google) - Co-chair
+* Fred Blaise (CloudBees) - Co-chair
+* Dan Lorenc (Google) - TOC Sponsor
 
 ### SIG Members
 
-Membership governance can be viewed [here](https://github.com/cncf/sig-security/blob/master/governance/roles.md#role-of-members). If you are new, check out the [New Members Page](NEWMEMBERS.md).
-<details><summary>Click to view list</summary>
-* list...
-</details>
-
-JOIN OUR MEETINGS REGULARLY, THEN ADD YOURSELF VIA PULL REQUEST
-
-# Additional information
+Membership governance can be viewed [here](https://github.com/cncf/sig-security/blob/master/governance/roles.md#role-of-members).
 
 ## Past events and meetings
 
