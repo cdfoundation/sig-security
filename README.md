@@ -36,11 +36,11 @@ CDF Special Interest Group - *Security*
 
 - [Agenda and Minutes](https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#heading=h.zehgwhht8gpl)
 - Meetings are conducted on every other Tuesday at 08:00am Pacific prior to the TOC meeting
-- Download [this invitation](https://zoom.us/meeting/tZcvcuugqD8tyCbzKhDecxk7i_DTjwwoxw/ics?icsToken=16e7a1f824ad13ceb2a417f99e43dbc02fcc6db5825820f64677b5dec84af379) to add the meeting to your calendar
+- Download this [invitation](https://zoom.us/meeting/tZcvcuugqD8tyCbzKhDecxk7i_DTjwwoxw/ics?icsToken=16e7a1f824ad13ceb2a417f99e43dbc02fcc6db5825820f64677b5dec84af379) to add the meeting to your calendar
 
 ## Related groups
 
-* Software Bill of Materials Working Group (https://www.it-cisq.org/software-bill-of-materials/index.htm)
+* [Software Bill of Materials Working Group](https://www.it-cisq.org/software-bill-of-materials/index.htm)
 
 
 ### SIG Chairs
@@ -54,7 +54,7 @@ CDF Special Interest Group - *Security*
 
 [//]: # "Membership governance can be viewed [here](https://github.com/cncf/sig-security/blob/master/governance/roles.md#role-of-members)."
 
-## Past events and meetings
+[//]: # "## Past events and meetings"
 
-For more details on past events and meetings, please see our [past events page](past-events.md)
+[//]: # "For more details on past events and meetings, please see our [past events page](past-events.md)"
 
