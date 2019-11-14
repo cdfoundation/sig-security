@@ -9,12 +9,12 @@
 
 The Security SIG provides a neutral home for discussion around designs, specifications, shared code and processes to enable security across the software supply chain. Topics of interest include the following:
 
-Observability- enable actions performed while writing code, compiling, testing, and distributing software to be manifest and verifiable.
-Policy - enable consumers of software to specify and implement policy over consumed software.
-Inventory - enable administrators to inventory and audit software used within their organizations.
-Runtime Security - enable detection and prevention of software tampering at runtime.
-Vulnerability Communication - provide mechanisms for breaches in the integrity of software to be communicated and remediated.
-Vulnerability Recovery - provide mechanisms for consumers to recover from compromised or untrusted software.
+* Observability- enable actions performed while writing code, compiling, testing, and distributing software to be manifest and verifiable.
+* Policy - enable consumers of software to specify and implement policy over consumed software.
+* Inventory - enable administrators to inventory and audit software used within their organizations.
+* Runtime Security - enable detection and prevention of software tampering at runtime.
+* Vulnerability Communication - provide mechanisms for breaches in the integrity of software to be communicated and remediated.
+* Vulnerability Recovery - provide mechanisms for consumers to recover from compromised or untrusted software.
 
 # Governance
 
