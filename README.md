@@ -40,6 +40,7 @@ CDF Special Interest Group - *Security*
 
 ## Related groups
 
+* [Software Supply Chain Working Group](https://github.com/cdfoundation/sig-security-supply-chain)
 * [Software Bill of Materials Working Group](https://www.it-cisq.org/software-bill-of-materials/index.htm)
 
 
