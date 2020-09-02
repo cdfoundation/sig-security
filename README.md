@@ -26,9 +26,9 @@ Anyone is welcome to join our open discussions of SIG-Security projects and shar
 
 * [Email list](https://lists.cd.foundation/g/sig-security)
 - Mail Address: sig-security@lists.cd.foundation
-* [CDF Slack](https://cdeliveryfdn.slack.com/) #sig-security channel
+* [CDF Slack](https://slack.cd.foundation) #sig-security channel
 
-[Join our Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM)
+[Join our Slack](https://slack.cd.foundation)
 
 ## Meeting times
 
